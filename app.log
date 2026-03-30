@@ -1,0 +1,24 @@
+An error noccurred while dividing by zero
+Traceback (most recent call last):
+  File "/var/folders/n0/1cz09yld15z_sj2k4jnqp3940000gn/T/ipykernel_73056/1941895218.py", line 2, in <module>
+    result = 10 / 0  # This will raise a ZeroDivisionError
+             ~~~^~~
+ZeroDivisionError: division by zero
+An error noccurred while dividing by zero
+Traceback (most recent call last):
+  File "/var/folders/n0/1cz09yld15z_sj2k4jnqp3940000gn/T/ipykernel_75811/1941895218.py", line 2, in <module>
+    result = 10 / 0  # This will raise a ZeroDivisionError
+             ~~~^~~
+ZeroDivisionError: division by zero
+An error noccurred while dividing by zero
+Traceback (most recent call last):
+  File "/var/folders/n0/1cz09yld15z_sj2k4jnqp3940000gn/T/ipykernel_76254/1941895218.py", line 2, in <module>
+    result = 10 / 0  # This will raise a ZeroDivisionError
+             ~~~^~~
+ZeroDivisionError: division by zero
+An error noccurred while dividing by zero
+Traceback (most recent call last):
+  File "/var/folders/n0/1cz09yld15z_sj2k4jnqp3940000gn/T/ipykernel_77354/1941895218.py", line 2, in <module>
+    result = 10 / 0  # This will raise a ZeroDivisionError
+             ~~~^~~
+ZeroDivisionError: division by zero
