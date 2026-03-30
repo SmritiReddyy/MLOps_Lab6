@@ -1,28 +1,7 @@
 # Python Logging Lab
 
-A hands-on introduction to Python's built-in `logging` library, extended with production-relevant logging patterns.
 
-## Contents
-
-| Section | Topic |
-|---|---|
-| 1 | Importing the Logging Library |
-| 2 | Basic Logging Configuration |
-| 3 | Logging Messages (DEBUG, INFO, WARNING, ERROR, CRITICAL) |
-| 4 | Using Custom Loggers |
-| 5 | Logging Exceptions |
-| 6 | Logging to a File |
-| 7 | Controlling Log Levels |
-| 8 | Log Handlers (StreamHandler + FileHandler) |
-| 9 | ✨ Rotating File Handler |
-| 10 | ✨ Structured JSON Logging |
-| 11 | ✨ ML Training Logger |
-
-✨ = added extensions
-
----
-
-## Extensions (My Additions)
+## My Changes 
 
 ### 9. Rotating File Handler
 Uses `RotatingFileHandler` to cap log file size at 1MB with 3 backup files. Simulates 100 system heartbeat entries to demonstrate log rotation in action — a standard pattern in production services to prevent unbounded disk usage.
